@@ -1,0 +1,11 @@
+Requirements
+
+Python ≥ 3.8
+
+GPU (optional but recommended)
+
+Model used:
+typeform/distilbert-base-uncased-mnli (auto-downloaded from Hugging Face)
+
+Install
+pip install scikit-learn datasets
