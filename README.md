@@ -1,0 +1,1 @@
+# Zero-Shot-Color-Detection-using-DistilBERT-MNLI
