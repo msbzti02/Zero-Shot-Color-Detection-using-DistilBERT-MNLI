@@ -122,7 +122,7 @@ Embedding Tensor Shape: [1, 12, 768]
 - Hidden size: 768
 ``` 
 
-## 🧪 Examples
+##  Examples
 
 ### Example 1
 **Input:**  
